@@ -11,5 +11,5 @@ server
 2. server는 RestAPI로 구성된 백엔드
 
 ### 프론트 템플릿 화면
-![홈화면](./images/home.png)
+![홈화면](https://github.com/softallice/tuna-ai/blob/main/images/home.PNG)
 
