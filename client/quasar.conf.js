@@ -22,7 +22,8 @@ module.exports = configure(function (ctx) {
     boot: [
       'axios',
       'global-components',
-      'router'
+      'router',
+      'particles'
     ],
 
     // https://v2.quasar.dev/quasar-cli/quasar-conf-js#Property%3A-css
